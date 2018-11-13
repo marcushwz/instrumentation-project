@@ -40,3 +40,6 @@ In order to minimize the energy usage on street lights, a working prototype demo
 ##### NI USB-6008 date logger connected to sensors
 ![NI USB-6008 data logger connected to the sensors](daq.png)
 
+
+## Conclusion
+I would like to thank all my team members because without the teamwork it would be impossible to finish this project on time.

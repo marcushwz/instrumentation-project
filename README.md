@@ -42,4 +42,4 @@ In order to minimize the energy usage on street lights, a working prototype demo
 
 
 ## Conclusion
-I would like to thank all my team members because without the teamwork it would be impossible to finish this project on time.
+Finally, I would like to thank all of my team members because without the teamwork it would be impossible to finish this project on time. This is my first time using LabVIEW and there are a lot more things I have to learn in order to make the projects more efficient.

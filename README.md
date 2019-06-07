@@ -1,4 +1,4 @@
-# Instrumentation Project
+# Instrumentation Project (Mechanical Study)
 This project is one of the coursework required by our department under the course Instrumentation and Measurement Technique. The task given was to create a prototype using any sensors and NI-USB-6008 data logger. 
 
 ## Project Details
